@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "RVO3D",
+	"Description": "3D Reciprocal Velocity Avoidance based on Optimal Reciprocal Collision Avoidance (ORCA)",
+	"Category": "AI",
+	"CreatedBy": "Darby Costello",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": 
+	[
+		{
+			"Name": "RVO3D",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win64", "Win32" ]
+		}
+	]
+}
